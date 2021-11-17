@@ -8,7 +8,7 @@ sections:
     background_image: images/71137.jpg
     background_image_opacity: 65
     content: >
-      # El  Legado del Valle del Mezquital para el Mundo&#xA;&#xA;"Viva" la
+      ##### El  Legado del Valle del Mezquital para el Mundo&#xA;&#xA;"Viva" la
       tierra del mejor pulque, barbacoa & fiestas&#xA;
     actions:
       - title: See all items
