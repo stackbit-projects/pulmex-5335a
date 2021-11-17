@@ -4,7 +4,6 @@ id: '3'
 price: '150.00'
 title: Curabitur eu tempor
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/WhatsApp Image 2021-11-17 at 12.13.48 PM.jpeg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
