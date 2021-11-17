@@ -13,7 +13,7 @@ sections:
 
       "Viva" la tierra del mejor pulque, barbacoa & fiestas
     actions:
-      - title: See all items
+      - title: Ver más
         url: /store
         arrow: true
         style: primary
