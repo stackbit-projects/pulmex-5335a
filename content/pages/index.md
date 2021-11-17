@@ -7,11 +7,9 @@ sections:
     section_id: hero_section
     background_image: images/71137.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: >
+      # El  Legado del Valle del Mezquital para el Mundo&#xA;&#xA;"Viva" la
+      tierra del mejor pulque, barbacoa & fiestas&#xA;
     actions:
       - title: See all items
         url: /store
