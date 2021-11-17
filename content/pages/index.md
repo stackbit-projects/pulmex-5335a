@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/71137.jpg
+    background_image: images/DJI_0187.jpg
     background_image_opacity: 65
     content: |
       # El  Legado del Valle del Mezquital para el Mundo
